@@ -1,2 +1,2 @@
 # pydocxy
-python-docx is a Python library for reading, creating, and updating Microsoft Word  files.
+pydocxy is a Python library for reading, creating, and updating Microsoft Word  files using docxtpl librabry
